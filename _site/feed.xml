@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Human Learning About Machine Learning</title>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/</link>
+    <description>A Human Learning About Machine Learning</description>
+    <pubDate>Mon, 06 Nov 2017 11:50:12 +0100</pubDate>
+    
+      <item>
+        <title>First lecture day in ETH Zurich</title>
+        <link>/ethz/2017/09/21/first-day-eth.html</link>
+        <guid isPermaLink="true">/ethz/2017/09/21/first-day-eth.html</guid>
+        <description>&lt;p&gt;10 years since CS degree and today I am officially back to the school bench again! Okay-okay, have not counted 6 years as a Ph.D. student. So that makes 4 years outside of the academic field. Not really: minus 1 year as a post-doc. So finally 3 years of life in the private business domain was like a short break. And here I am back again.&lt;/p&gt;
+
+&lt;p&gt;My first day at ETH as a further education student (CAS). Visited two courses:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=116772&amp;amp;semkez=2017W&amp;amp;lang=en&quot;&gt;Data Mining: Learning from Large data sets&lt;/a&gt; &lt;br /&gt;
+A practical course where one seems to start immediately with the modern ML toolkit methods and then slowly learn why and where the methods can be used.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=116856&amp;amp;semkez=2017W&amp;amp;lang=en&quot;&gt;Machine Learning&lt;/a&gt; &lt;br /&gt;
+A theory to practice course where one starts with the theoretical and even philosophical foundations of ML and then slowly apply the theory with the practical exercises.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Looking forward to learning more about Machine Learning!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Sep 2017 19:09:34 +0200</pubDate>
+      </item>
+    
+  </channel>
+</rss>
